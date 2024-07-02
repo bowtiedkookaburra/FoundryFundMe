@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+broadcast/
+lib/
+foundry-fund-me-f23.code-workspace
+.DS_Store
